@@ -1,0 +1,46 @@
+{
+  "lastUpdated": "2026-05-24",
+  "assets": [
+    {
+      "name": "Primary Home",
+      "value": 475000,
+      "type": "real_estate",
+      "note": "Carrollton TX — estimated market value",
+      "color": "#6366f1"
+    },
+    {
+      "name": "Mortgage",
+      "value": -359549,
+      "type": "real_estate_debt",
+      "note": "Remaining balance",
+      "color": "#4f46e5"
+    },
+    {
+      "name": "2015 BMW 550i",
+      "value": 11900,
+      "type": "vehicle",
+      "note": "KBB private party — 100k miles",
+      "color": "#22d3ee"
+    },
+    {
+      "name": "2016 BMW X3",
+      "value": 9925,
+      "type": "vehicle",
+      "note": "KBB private party — 100k miles",
+      "color": "#06b6d4"
+    },
+    {
+      "name": "401k",
+      "value": 95538,
+      "type": "retirement",
+      "note": "Post $4,462 withdrawal",
+      "color": "#a78bfa"
+    }
+  ],
+  "summary": {
+    "totalAssets": 596825,
+    "totalLiabilities": 506549,
+    "netWorth": 90276,
+    "homeEquity": 115451
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "lastUpdated": "2026-05-24",
+  "debts": [
+    {
+      "name": "IRS Back Taxes",
+      "balance": 49000,
+      "originalBalance": 49000,
+      "rate": 7,
+      "monthlyPayment": 700,
+      "color": "#ef4444",
+      "payoffDate": "2032",
+      "underNFCC": false
+    },
+    {
+      "name": "Student Loans",
+      "balance": 35000,
+      "originalBalance": 35000,
+      "rate": 4,
+      "monthlyPayment": 800,
+      "color": "#f97316",
+      "payoffDate": "2029",
+      "underNFCC": false
+    },
+    {
+      "name": "Credit Cards",
+      "balance": 30000,
+      "originalBalance": 30000,
+      "rate": 0,
+      "monthlyPayment": 0,
+      "color": "#eab308",
+      "payoffDate": "TBD",
+      "underNFCC": true
+    },
+    {
+      "name": "LendClub Personal Loan",
+      "balance": 24000,
+      "originalBalance": 24000,
+      "rate": 0,
+      "monthlyPayment": 0,
+      "color": "#84cc16",
+      "payoffDate": "TBD",
+      "underNFCC": true
+    },
+    {
+      "name": "Maira Car",
+      "balance": 3000,
+      "originalBalance": 3000,
+      "rate": 0,
+      "monthlyPayment": 300,
+      "color": "#22d3ee",
+      "payoffDate": "2026",
+      "underNFCC": false
+    },
+    {
+      "name": "Affirm",
+      "balance": 1109.18,
+      "originalBalance": 1109.18,
+      "rate": 7,
+      "monthlyPayment": 400,
+      "color": "#c084fc",
+      "payoffDate": "Sep 2026"
+    },
+    {
+      "name": "2025 Tax",
+      "balance": 5000,
+      "originalBalance": 5000,
+      "rate": 7,
+      "monthlyPayment": 500,
+      "color": "#818cf8",
+      "payoffDate": "Dec 2026",
+      "underNFCC": false
+    },
+    {
+      "name": "Klarna",
+      "balance": 254.71,
+      "originalBalance": 254.71,
+      "rate": 24,
+      "monthlyPayment": 84.20,
+      "color": "#f43f5e",
+      "payoffDate": "Aug 2026",
+      "underNFCC": false
+    }  ],
+
+  "totalDebt": 147363.89,
+  "monthlyPayments": 3500,
+  "nfccTotal": 1030,
+  "bonusDate": "February 2027",
+  "bonusAmount": 30000
+}
