@@ -1,22 +1,185 @@
 {
-  "lastUpdated": "2026-05-23T15:58:51.601Z",
-  "balance": 800,
-  "monthlyIncome": 9408,
-  "totalSpent": 217.57,
-  "remaining": 4760.43,
-  "flags": 1,
-  "flagDetails": [
-    {
-      "level": "RED",
-      "message": "UBER EATS DETECTED - UBER TECHNOLOGIES, I for amount $21",
-      "action": "Delete the app. Both phones."
-    }
-  ],
+  "lastUpdated": "2026-05-30T13:41:38.347Z",
+  "balance": 3517.11,
+  "monthlyIncome": 9228,
+  "totalSpent": 985.8,
+  "remaining": 3812.2,
+  "flags": 0,
+  "flagDetails": [],
   "categoryTotals": {
-    "Dining Out": 57.12,
-    "Subscriptions": 44.04,
-    "Fuel": 84.6,
-    "Amazon": 10.81,
-    "Food Delivery": 21
-  }
+    "Beer": 117.81,
+    "Subscriptions": 55.78,
+    "Dining Out": 124.27000000000001,
+    "Debt Payment": 84.5,
+    "Shipping": 47.2,
+    "Groceries": 120.81,
+    "Clothes Shopping": 30,
+    "Health": 79.95,
+    "Fuel": 79.93,
+    "Phones": 219.55,
+    "Entertainment": 26
+  },
+  "transactions": [
+    {
+      "merchant": "CHEVRON 0304865",
+      "amount": 30.06,
+      "category": "Beer",
+      "date": "2026-05-30",
+      "timestamp": 1780103583000
+    },
+    {
+      "merchant": "CHEVRON 0304865",
+      "amount": 31.67,
+      "category": "Beer",
+      "date": "2026-05-30",
+      "timestamp": 1780087775000
+    },
+    {
+      "merchant": "APPLE.COM/BILL",
+      "amount": 2.15,
+      "category": "Subscriptions",
+      "date": "2026-05-30",
+      "timestamp": 1780052246000
+    },
+    {
+      "merchant": "POLLO SALSA",
+      "amount": 14.52,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779996949000
+    },
+    {
+      "merchant": "POLLO SALSA",
+      "amount": 21.09,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779994847000
+    },
+    {
+      "merchant": "NETLIFY",
+      "amount": 9.59,
+      "category": "Subscriptions",
+      "date": "2026-05-30",
+      "timestamp": 1779843874000
+    },
+    {
+      "merchant": "CHEVRON 0304865",
+      "amount": 23.77,
+      "category": "Beer",
+      "date": "2026-05-30",
+      "timestamp": 1779843507000
+    },
+    {
+      "merchant": "KLARNA* EBAY",
+      "amount": 84.5,
+      "category": "Debt Payment",
+      "date": "2026-05-30",
+      "timestamp": 1779822668000
+    },
+    {
+      "merchant": "POSTAL SHOPPE",
+      "amount": 47.2,
+      "category": "Shipping",
+      "date": "2026-05-30",
+      "timestamp": 1779805671000
+    },
+    {
+      "merchant": "TOM THUMB #2590",
+      "amount": 120.81,
+      "category": "Groceries",
+      "date": "2026-05-30",
+      "timestamp": 1779741365000
+    },
+    {
+      "merchant": "GOODWILL CARROLTON",
+      "amount": 30,
+      "category": "Clothes Shopping",
+      "date": "2026-05-30",
+      "timestamp": 1779739110000
+    },
+    {
+      "merchant": "BLUECHEW",
+      "amount": 79.95,
+      "category": "Health",
+      "date": "2026-05-30",
+      "timestamp": 1779673024000
+    },
+    {
+      "merchant": "CHEVRON 0304865",
+      "amount": 32.31,
+      "category": "Beer",
+      "date": "2026-05-30",
+      "timestamp": 1779670162000
+    },
+    {
+      "merchant": "SHELL/SHELL",
+      "amount": 75.04,
+      "category": "Fuel",
+      "date": "2026-05-30",
+      "timestamp": 1779663821000
+    },
+    {
+      "merchant": "GARRISON FOOD MA",
+      "amount": 4.89,
+      "category": "Fuel",
+      "date": "2026-05-30",
+      "timestamp": 1779656882000
+    },
+    {
+      "merchant": "PY *HTEAO 260 CHILDR",
+      "amount": 7.52,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779656516000
+    },
+    {
+      "merchant": "ATT*BILL PAYMENT",
+      "amount": 219.55,
+      "category": "Phones",
+      "date": "2026-05-30",
+      "timestamp": 1779629928000
+    },
+    {
+      "merchant": "THE PLAZA RESTAURANT",
+      "amount": 50.02,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779563442000
+    },
+    {
+      "merchant": "SONIC DRIVE IN #4700",
+      "amount": 22.7,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779499468000
+    },
+    {
+      "merchant": "ANTHROPIC",
+      "amount": 21.32,
+      "category": "Subscriptions",
+      "date": "2026-05-30",
+      "timestamp": 1779479158000
+    },
+    {
+      "merchant": "APPLE.COM/BILL",
+      "amount": 22.72,
+      "category": "Subscriptions",
+      "date": "2026-05-30",
+      "timestamp": 1779472773000
+    },
+    {
+      "merchant": "PY *HTEAO 260 CHILDR",
+      "amount": 8.42,
+      "category": "Dining Out",
+      "date": "2026-05-30",
+      "timestamp": 1779460831000
+    },
+    {
+      "merchant": "STONEY RIDGE",
+      "amount": 26,
+      "category": "Entertainment",
+      "date": "2026-05-30",
+      "timestamp": 1779456468000
+    }
+  ]
 }
