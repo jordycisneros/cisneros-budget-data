@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-05-31T18:07:12.059Z",
+  "lastUpdated": "2026-05-31T19:03:12.946Z",
   "balance": -211.12,
   "monthlyIncome": 9228,
-  "totalSpent": 4724.78,
-  "remaining": 73.22,
+  "totalSpent": 4719.89,
+  "remaining": 78.11,
   "flags": 0,
   "flagDetails": [],
   "categoryTotals": {
@@ -16,7 +16,7 @@
     "Groceries": 120.81,
     "Clothes Shopping": 30,
     "Health": 79.95,
-    "Fuel": 79.93
+    "Fuel": 75.04
   },
   "transactions": [
     {
@@ -151,13 +151,6 @@
       "category": "Fuel",
       "date": "2026-05-31",
       "timestamp": 1779663821000
-    },
-    {
-      "merchant": "GARRISON FOOD MA",
-      "amount": 4.89,
-      "category": "Fuel",
-      "date": "2026-05-31",
-      "timestamp": 1779656882000
     }
   ]
 }
