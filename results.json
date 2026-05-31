@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-05-31T16:45:12.522Z",
+  "lastUpdated": "2026-05-31T17:54:58.784Z",
   "balance": 3508.46,
   "monthlyIncome": 9228,
-  "totalSpent": 893.29,
-  "remaining": 3904.71,
+  "totalSpent": 4724.78,
+  "remaining": 73.22,
   "flags": 0,
   "flagDetails": [],
   "categoryTotals": {
     "Subscriptions": 20.39,
+    "Mortgage": 3280.46,
+    "Debt Payment": 912.62,
     "Beer": 117.81,
-    "Dining Out": 93.15,
-    "Debt Payment": 84.5,
+    "Dining Out": 35.61,
     "Shipping": 47.2,
     "Groceries": 120.81,
     "Clothes Shopping": 30,
     "Health": 79.95,
-    "Fuel": 79.93,
-    "Phones": 219.55
+    "Fuel": 79.93
   },
   "transactions": [
     {
@@ -25,6 +25,20 @@
       "category": "Subscriptions",
       "date": "2026-05-31",
       "timestamp": 1780183884000
+    },
+    {
+      "merchant": "PLANET HOME",
+      "amount": 3280.46,
+      "category": "Mortgage",
+      "date": "2026-05-31",
+      "timestamp": 1780131431000
+    },
+    {
+      "merchant": "ADVS ED SERV PPD",
+      "amount": 439.12,
+      "category": "Debt Payment",
+      "date": "2026-05-31",
+      "timestamp": 1780131430000
     },
     {
       "merchant": "CHEVRON 0304865",
@@ -60,6 +74,20 @@
       "category": "Dining Out",
       "date": "2026-05-31",
       "timestamp": 1779994847000
+    },
+    {
+      "merchant": "NEFURNMART",
+      "amount": 257,
+      "category": "Debt Payment",
+      "date": "2026-05-31",
+      "timestamp": 1779869602000
+    },
+    {
+      "merchant": "CONSUMER CREDIT",
+      "amount": 132,
+      "category": "Debt Payment",
+      "date": "2026-05-31",
+      "timestamp": 1779869598000
     },
     {
       "merchant": "NETLIFY",
@@ -130,27 +158,6 @@
       "category": "Fuel",
       "date": "2026-05-31",
       "timestamp": 1779656882000
-    },
-    {
-      "merchant": "PY *HTEAO 260 CHILDR",
-      "amount": 7.52,
-      "category": "Dining Out",
-      "date": "2026-05-31",
-      "timestamp": 1779656516000
-    },
-    {
-      "merchant": "ATT*BILL PAYMENT",
-      "amount": 219.55,
-      "category": "Phones",
-      "date": "2026-05-31",
-      "timestamp": 1779629928000
-    },
-    {
-      "merchant": "THE PLAZA RESTAURANT",
-      "amount": 50.02,
-      "category": "Dining Out",
-      "date": "2026-05-31",
-      "timestamp": 1779563442000
     }
   ]
 }
