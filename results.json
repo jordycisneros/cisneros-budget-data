@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-30T23:25:38.303Z",
-  "balance": -232.53,
+  "lastUpdated": "2026-05-31T04:15:40.940Z",
+  "balance": 3517.11,
   "monthlyIncome": 9228,
-  "totalSpent": 5015.92,
-  "remaining": -217.92,
+  "totalSpent": 5001.87,
+  "remaining": -203.87,
   "flags": 0,
   "flagDetails": [],
   "categoryTotals": {
+    "Subscriptions": 20.39,
     "Mortgage": 3280.46,
     "Debt Payment": 912.62,
     "Beer": 117.81,
-    "Subscriptions": 11.74,
-    "Dining Out": 115.85000000000001,
+    "Dining Out": 93.15,
     "Shipping": 47.2,
     "Groceries": 120.81,
     "Clothes Shopping": 30,
@@ -20,6 +20,14 @@
     "Phones": 219.55
   },
   "transactions": [
+    {
+      "merchant": "APPLE.COM/BILL",
+      "amount": 8.65,
+      "category": "Subscriptions",
+      "date": "2026-05-30",
+      "timestamp": 1780183884000,
+      "messageId": "19e7b3a684a3f9b8"
+    },
     {
       "merchant": "PLANET HOME",
       "amount": 3280.46,
@@ -195,14 +203,6 @@
       "date": "2026-05-23",
       "timestamp": 1779563442000,
       "messageId": "19e563f34472bd9c"
-    },
-    {
-      "merchant": "SONIC DRIVE IN #4700",
-      "amount": 22.7,
-      "category": "Dining Out",
-      "date": "2026-05-23",
-      "timestamp": 1779499468000,
-      "messageId": "19e526f0b0f7ad8d"
     }
   ]
 }
