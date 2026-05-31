@@ -1,17 +1,16 @@
 {
-  "lastUpdated": "2026-05-31T14:05:46.375Z",
-  "balance": 3517.11,
+  "lastUpdated": "2026-05-31T15:57:26.911Z",
+  "balance": 3508.46,
   "monthlyIncome": 9228,
-  "totalSpent": 5001.87,
-  "remaining": -203.87,
+  "totalSpent": 893.29,
+  "remaining": 3904.71,
   "flags": 0,
   "flagDetails": [],
   "categoryTotals": {
     "Subscriptions": 20.39,
-    "Mortgage": 3280.46,
-    "Debt Payment": 912.62,
     "Beer": 117.81,
     "Dining Out": 93.15,
+    "Debt Payment": 84.5,
     "Shipping": 47.2,
     "Groceries": 120.81,
     "Clothes Shopping": 30,
@@ -24,185 +23,134 @@
       "merchant": "APPLE.COM/BILL",
       "amount": 8.65,
       "category": "Subscriptions",
-      "date": "2026-05-30",
-      "timestamp": 1780183884000,
-      "messageId": "19e7b3a684a3f9b8"
-    },
-    {
-      "merchant": "PLANET HOME",
-      "amount": 3280.46,
-      "category": "Mortgage",
-      "date": "2026-05-30",
-      "timestamp": 1780131431000,
-      "messageId": "19e781a07723f19f"
-    },
-    {
-      "merchant": "ADVS ED SERV PPD",
-      "amount": 439.12,
-      "category": "Debt Payment",
-      "date": "2026-05-30",
-      "timestamp": 1780131430000,
-      "messageId": "19e781a0753ffd10"
+      "date": "2026-05-31",
+      "timestamp": 1780183884000
     },
     {
       "merchant": "CHEVRON 0304865",
       "amount": 30.06,
       "category": "Beer",
-      "date": "2026-05-30",
-      "timestamp": 1780103583000,
-      "messageId": "19e76711ab17d63a"
+      "date": "2026-05-31",
+      "timestamp": 1780103583000
     },
     {
       "merchant": "CHEVRON 0304865",
       "amount": 31.67,
       "category": "Beer",
-      "date": "2026-05-29",
-      "timestamp": 1780087775000,
-      "messageId": "19e757fe64ca4b64"
+      "date": "2026-05-31",
+      "timestamp": 1780087775000
     },
     {
       "merchant": "APPLE.COM/BILL",
       "amount": 2.15,
       "category": "Subscriptions",
-      "date": "2026-05-29",
-      "timestamp": 1780052246000,
-      "messageId": "19e7361c4e8bc81a"
+      "date": "2026-05-31",
+      "timestamp": 1780052246000
     },
     {
       "merchant": "POLLO SALSA",
       "amount": 14.52,
       "category": "Dining Out",
-      "date": "2026-05-28",
-      "timestamp": 1779996949000,
-      "messageId": "19e701603a9fb3bc"
+      "date": "2026-05-31",
+      "timestamp": 1779996949000
     },
     {
       "merchant": "POLLO SALSA",
       "amount": 21.09,
       "category": "Dining Out",
-      "date": "2026-05-28",
-      "timestamp": 1779994847000,
-      "messageId": "19e6ff5f1136a0d2"
-    },
-    {
-      "merchant": "NEFURNMART",
-      "amount": 257,
-      "category": "Debt Payment",
-      "date": "2026-05-27",
-      "timestamp": 1779869602000,
-      "messageId": "19e687ed608b9aae"
-    },
-    {
-      "merchant": "CONSUMER CREDIT",
-      "amount": 132,
-      "category": "Debt Payment",
-      "date": "2026-05-27",
-      "timestamp": 1779869598000,
-      "messageId": "19e687ec9e660839"
+      "date": "2026-05-31",
+      "timestamp": 1779994847000
     },
     {
       "merchant": "NETLIFY",
       "amount": 9.59,
       "category": "Subscriptions",
-      "date": "2026-05-27",
-      "timestamp": 1779843874000,
-      "messageId": "19e66f644a1b1e22"
+      "date": "2026-05-31",
+      "timestamp": 1779843874000
     },
     {
       "merchant": "CHEVRON 0304865",
       "amount": 23.77,
       "category": "Beer",
-      "date": "2026-05-27",
-      "timestamp": 1779843507000,
-      "messageId": "19e66f0ac074d57c"
+      "date": "2026-05-31",
+      "timestamp": 1779843507000
     },
     {
       "merchant": "KLARNA* EBAY",
       "amount": 84.5,
       "category": "Debt Payment",
-      "date": "2026-05-26",
-      "timestamp": 1779822668000,
-      "messageId": "19e65b2af14226c7"
+      "date": "2026-05-31",
+      "timestamp": 1779822668000
     },
     {
       "merchant": "POSTAL SHOPPE",
       "amount": 47.2,
       "category": "Shipping",
-      "date": "2026-05-26",
-      "timestamp": 1779805671000,
-      "messageId": "19e64af542a04bb2"
+      "date": "2026-05-31",
+      "timestamp": 1779805671000
     },
     {
       "merchant": "TOM THUMB #2590",
       "amount": 120.81,
       "category": "Groceries",
-      "date": "2026-05-25",
-      "timestamp": 1779741365000,
-      "messageId": "19e60da198c6cdcf"
+      "date": "2026-05-31",
+      "timestamp": 1779741365000
     },
     {
       "merchant": "GOODWILL CARROLTON",
       "amount": 30,
       "category": "Clothes Shopping",
-      "date": "2026-05-25",
-      "timestamp": 1779739110000,
-      "messageId": "19e60b7b74fe79ed"
+      "date": "2026-05-31",
+      "timestamp": 1779739110000
     },
     {
       "merchant": "BLUECHEW",
       "amount": 79.95,
       "category": "Health",
-      "date": "2026-05-25",
-      "timestamp": 1779673024000,
-      "messageId": "19e5cc74e9a9637b"
+      "date": "2026-05-31",
+      "timestamp": 1779673024000
     },
     {
       "merchant": "CHEVRON 0304865",
       "amount": 32.31,
       "category": "Beer",
-      "date": "2026-05-25",
-      "timestamp": 1779670162000,
-      "messageId": "19e5c9ba5dcb6124"
+      "date": "2026-05-31",
+      "timestamp": 1779670162000
     },
     {
       "merchant": "SHELL/SHELL",
       "amount": 75.04,
       "category": "Fuel",
-      "date": "2026-05-24",
-      "timestamp": 1779663821000,
-      "messageId": "19e5c3ae3ab6b934"
+      "date": "2026-05-31",
+      "timestamp": 1779663821000
     },
     {
       "merchant": "GARRISON FOOD MA",
       "amount": 4.89,
       "category": "Fuel",
-      "date": "2026-05-24",
-      "timestamp": 1779656882000,
-      "messageId": "19e5bd0fea88f2b4"
+      "date": "2026-05-31",
+      "timestamp": 1779656882000
     },
     {
       "merchant": "PY *HTEAO 260 CHILDR",
       "amount": 7.52,
       "category": "Dining Out",
-      "date": "2026-05-24",
-      "timestamp": 1779656516000,
-      "messageId": "19e5bcb68f17db66"
+      "date": "2026-05-31",
+      "timestamp": 1779656516000
     },
     {
       "merchant": "ATT*BILL PAYMENT",
       "amount": 219.55,
       "category": "Phones",
-      "date": "2026-05-24",
-      "timestamp": 1779629928000,
-      "messageId": "19e5a35b8b45dc54"
+      "date": "2026-05-31",
+      "timestamp": 1779629928000
     },
     {
       "merchant": "THE PLAZA RESTAURANT",
       "amount": 50.02,
       "category": "Dining Out",
-      "date": "2026-05-23",
-      "timestamp": 1779563442000,
-      "messageId": "19e563f34472bd9c"
+      "date": "2026-05-31",
+      "timestamp": 1779563442000
     }
   ]
 }
